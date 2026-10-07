@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2026-03-15 10:00:00-0000
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Presented research on **SVM classification of quantum nonlocality and steerability boundaries** to the UNICAMP physics department. Check out the [code on GitHub](https://github.com/TamarNoselidze/SVM-Nonlocality-Boundary).
