@@ -6,11 +6,12 @@ subtitle: Master's Student in Quantum Information at Sorbonne University
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: main_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Paris, France</p>
     <p><a href="mailto:noselidzetamar@gmail.com">noselidzetamar@gmail.com</a></p>
+    <p><a href="mailto:tamar.noselidze@etu.sorbonne-universite.fr">tamar.noselidze@etu.sorbonne-universite.fr</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
