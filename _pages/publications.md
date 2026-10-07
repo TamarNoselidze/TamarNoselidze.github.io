@@ -4,7 +4,7 @@ permalink: /publications/
 title: publications
 description: Preprints, thesis, and research papers in quantum information and machine learning.
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 <!-- _pages/publications.md -->

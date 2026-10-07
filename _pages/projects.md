@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: Research projects in quantum information, convex optimisation, and machine learning.
 nav: true
-nav_order: 1
+nav_order: 2
 display_categories: ["Quantum Information", "Machine Learning & HPC"]
 horizontal: false
 ---

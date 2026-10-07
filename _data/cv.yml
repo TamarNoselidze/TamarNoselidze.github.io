@@ -4,11 +4,6 @@ cv:
   email: noselidzetamar@gmail.com
   location: Paris, France
   image: ""
-  summary: >
-    Quantum Information Master's Student at Sorbonne University, combining quantum dynamics with advanced machine learning
-    and high-performance computing. Experienced in convex optimisation, scientific computing, and PyTorch pipelines to model complex
-    quantum systems. Eager to apply my background in AI and mathematical optimisation to autonomous quantum error correction and fault-tolerant
-    architectures. Looking for a 6-month M2 internship to contribute to quantum computing solutions.
 
   social_networks:
     - network: GitHub
@@ -46,14 +41,21 @@ cv:
     Experience:
       - company: UNICAMP & Sorbonne University
         position: Quantum Information Researcher
-        location: Campinas (remote) & Paris
-        start_date: 2026
+        location: Campinas & Paris
+        start_date: 05/2026
         end_date: Present
-        summary: Research in quantum nonlocality, steerability classification, multipartite Bell scenarios, and quantum catalysis.
+        summary: Research in different groups, across various topics such as quantum nonlocality, steerability classification, multipartite Bell scenarios, and quantum catalysis.
         highlights:
           - "Quantum Nonlocality & SVMs: Engineered a novel SVM pipeline to classify Local Hidden States (LHS) and quantum steerability by compressing 2-qubit density matrices into a 9-dimensional Fano feature representation. Extracted a novel algebraic formula to capture quantum nonlocality, overcame traditional LP bottlenecks by implementing convex optimisation pipelines using MOSEK, and presented findings to the UNICAMP physics department."
-          - "Multipartite Bell Scenarios (paper in preparation): Defining high-dimensional polytopes and applying vertex annotation (PORTA, PANDA) to discover novel Bell inequalities. Utilizing convex optimisation (CVXPY), linear programming, and see-saw techniques to model complex quantum correlations."
+          - "Multipartite Bell Scenarios (paper in preparation): Defining high-dimensional polytopes and applying vertex annotation (PORTA, PANDA) to discover novel Bell inequalities. Using convex optimisation (CVXPY), linear programming, and see-saw techniques to model complex quantum correlations."
           - "Quantum Catalysis (paper in preparation): Investigating the catalytic power of quantum states across different dimensions, analysing entanglement as a novel thermodynamic and informational resource."
+
+      - company: Self-Employed
+        position: Student Job | Tutoring
+        location: Paris, France
+        start_date: 2025
+        end_date: Present
+        summary: Providing private tuition for high school students in Mathematics and English. Specialising in advanced high school calculus, pre-calculus, algebra, and standardised test preparation (SAT). Mentoring students to strengthen mathematical problem-solving skills and intuition.
 
       - company: Charles University
         position: AI Researcher
@@ -67,46 +69,24 @@ cv:
           - "Scientific Workflow: Collaborated in an agile research environment using Git for version control and documenting experimental results for academic publication."
           - "Model Optimisation: Integrated pre-trained models and applied optimisation techniques to improve reliability and performance on large image datasets."
 
-    Publications:
-      - title: Adversarial Patch Attacks on Vision Transformers and Deep Neural Networks
-        authors:
-          - Tamar Noselidze
-        publisher: Charles University Digital Repository
-        releaseDate: 2025-06-01
-        url: https://dspace.cuni.cz/handle/20.500.11956/200886
-        summary: Bachelor thesis exploring adversarial vulnerability in Vision Transformers and CNN architectures with large-scale HPC evaluation.
-
-      - title: "Quantum Nonlocality and SVMs: Classification of Local Hidden States via 9D Fano Feature Representations"
-        authors:
-          - Tamar Noselidze
-        publisher: In preparation (UNICAMP & Sorbonne University)
-        releaseDate: 2026
-        url: https://github.com/TamarNoselidze/SVM-Nonlocality-Boundary
-        summary: Novel SVM pipeline to classify quantum steerability and LHS boundaries with convex optimisation acceleration.
-
     Skills:
       - name: Quantum & Optimisation
-        level: Advanced
         icon: fa-solid fa-atom
         keywords: "Convex Optimisation, Linear Programming, See-Saw Technique, Hybrid ML-Quantum Algorithms, Bell Nonlocality"
 
       - name: Optimisation & Scientific Tooling
-        level: Advanced
         icon: fa-solid fa-microchip
         keywords: "MOSEK, CVXPY, PORTA, PANDA, RANDA, NumPy, Pandas"
 
       - name: Development & HPC
-        level: Advanced
         icon: fa-solid fa-server
         keywords: "Git/GitHub, Docker, Singularity, Bash, Linux, HPC Workflows (MetaCentrum)"
 
       - name: Programming Languages
-        level: Advanced
         icon: fa-solid fa-code
-        keywords: "Python (Advanced), Julia, Java, C#, Haskell, MATLAB"
+        keywords: "Python, Julia, Java, C#, Haskell, MATLAB"
 
       - name: Machine Learning
-        level: Advanced
         icon: fa-solid fa-brain
         keywords: "PyTorch, Hugging Face Transformers, SVMs, Scikit-learn, Computer Vision, Adversarial Robustness"
 
