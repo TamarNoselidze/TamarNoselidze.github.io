@@ -206,3 +206,22 @@ html[data-theme-setting="light"] {
 #light-toggle:hover .fa-half-sun-moon::after {
   color: var(--global-theme-color);
 }
+
+/* Publication year headers & badge styling */
+.publications h2.bibliography {
+  color: #4b5563 !important;
+  border-top-color: #9ca3af !important;
+  font-weight: 600 !important;
+}
+
+html[data-theme="dark"] .publications h2.bibliography {
+  color: #9ca3af !important;
+  border-top-color: #4b5563 !important;
+}
+
+.publications ol.bibliography li .abbr abbr[style*="f59e0b"],
+.publications ol.bibliography li .abbr abbr.in-prep {
+  background-color: #f59e0b !important;
+  color: #111827 !important;
+  font-weight: 600 !important;
+}

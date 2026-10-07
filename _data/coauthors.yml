@@ -1,5 +1,14 @@
 # Coauthors mapping
-# Add entries here as needed, e.g.:
-# "lastname":
-#   - firstname: ["Firstname", "F."]
-#     url: https://...
+# Keys must be lowercase without accents
+
+"rabelo":
+  - firstname: ["Rafael"]
+    url: https://www.ime.unicamp.br/~mfq/people/rabelo/
+
+"terra cunha":
+  - firstname: ["Marcelo", "Marcelo Terra"]
+    url: https://www.ime.unicamp.br/~tcunha/
+
+"cunha":
+  - firstname: ["Marcelo Terra", "Marcelo"]
+    url: https://www.ime.unicamp.br/~tcunha/
