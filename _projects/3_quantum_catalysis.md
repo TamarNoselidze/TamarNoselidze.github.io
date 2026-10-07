@@ -15,6 +15,6 @@ In quantum resource theories and entanglement transformation protocols, **cataly
 ### Research Scope
 
 - **Dimensional Scaling**: Investigating the catalytic power and bounds of quantum states across higher finite Hilbert space dimensions.
-- **Entanglement as a Thermodynamic Resource**: Analyzing similarities between quantum entanglement catalysis and chemical/thermodynamic catalytic cycles.
-- **Mathematical Formulations**: Exploring majorization conditions, trumping relations, and semidefinite programming formulations for assisted state reachability.
+- **Entanglement as a Thermodynamic Resource**: Analysing similarities between quantum entanglement catalysis and chemical/thermodynamic catalytic cycles.
+- **Mathematical Formulations**: Exploring majorisation conditions, trumping relations, and semidefinite programming formulations for assisted state reachability.
 - **Status**: Paper in preparation (UNICAMP & Sorbonne University).

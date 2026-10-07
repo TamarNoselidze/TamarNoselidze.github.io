@@ -10,14 +10,14 @@ related_publications: true
 
 ### Overview
 
-As Vision Transformers (ViTs) increasingly complement convolutional architectures in computer vision, understanding their vulnerability to physical-world and localized perturbations is critical for robust deployment.
+As Vision Transformers (ViTs) increasingly complement convolutional architectures in computer vision, understanding their vulnerability to physical-world and localised perturbations is critical for robust deployment.
 
-This research, conducted at **Charles University** (Prague), focused on the comparative vulnerability of Vision Transformers and Convolutional Neural Networks under localized adversarial patch attacks.
+This research, conducted at **Charles University** (Prague), focused on the comparative vulnerability of Vision Transformers and Convolutional Neural Networks under localised adversarial patch attacks.
 
 ### Key Achievements
 
 - **Attack Success Rate**: Engineered PyTorch pipelines generating targeted and untargeted adversarial patch attacks that achieved **>75% attack success rates** across both ViT and CNN benchmarks.
-- **HPC Infrastructure & Scale**: Designed reproducible, parallelized machine learning pipelines consuming **over 500 GPU days** on the Czech national supercomputing cluster (**MetaCentrum**).
-- **Model Optimization**: Integrated pre-trained vision architectures and applied optimization methods to evaluate robustness and transferability across large image datasets.
+- **HPC Infrastructure & Scale**: Designed reproducible, parallelised machine learning pipelines consuming **over 500 GPU days** on the Czech national supercomputing cluster (**MetaCentrum**).
+- **Model Optimisation**: Integrated pre-trained vision architectures and applied optimisation methods to evaluate robustness and transferability across large image datasets.
 - **Bachelor Thesis**: Documented comprehensive methodologies and comparative empirical analyses.
   - Thesis Repository: [Charles University Digital Repository](https://dspace.cuni.cz/handle/20.500.11956/200886)

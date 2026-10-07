@@ -14,7 +14,7 @@ Bell inequalities define the facets of local correlation polytopes. In multipart
 
 ### Research Highlights
 
-- **Polytope Modeling & Vertex Annotation**: Defined high-dimensional polytopes representing local correlation spaces and applied combinatorial algorithms using tools such as **PORTA**, **PANDA**, and **RANDA** for facet enumeration and vertex annotation.
-- **Convex Optimization**: Formulated semidefinite relaxations and convex optimization programs in **CVXPY** combined with linear programming solvers.
-- **See-Saw Optimization**: Implemented see-saw iterative numerical techniques to maximize quantum violations of novel Bell candidate inequalities across multipartite entangled states.
+- **Polytope Modelling & Vertex Annotation**: Defined high-dimensional polytopes representing local correlation spaces and applied combinatorial algorithms using tools such as **PORTA**, **PANDA**, and **RANDA** for facet enumeration and vertex annotation.
+- **Convex Optimisation**: Formulated semidefinite relaxations and convex optimisation programs in **CVXPY** combined with linear programming solvers.
+- **See-Saw Optimisation**: Implemented see-saw iterative numerical techniques to maximise quantum violations of novel Bell candidate inequalities across multipartite entangled states.
 - **Status**: Paper in preparation (Sorbonne University & UNICAMP).

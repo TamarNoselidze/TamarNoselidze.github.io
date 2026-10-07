@@ -6,8 +6,8 @@ cv:
   image: ""
   summary: >
     Quantum Information Master's Student at Sorbonne University, combining quantum dynamics with advanced machine learning
-    and high-performance computing. Experienced in convex optimization, scientific computing, and PyTorch pipelines to model complex
-    quantum systems. Eager to apply my background in AI and mathematical optimization to autonomous quantum error correction and fault-tolerant
+    and high-performance computing. Experienced in convex optimisation, scientific computing, and PyTorch pipelines to model complex
+    quantum systems. Eager to apply my background in AI and mathematical optimisation to autonomous quantum error correction and fault-tolerant
     architectures. Looking for a 6-month M2 internship to contribute to quantum computing solutions.
 
   social_networks:
@@ -51,9 +51,9 @@ cv:
         end_date: Present
         summary: Research in quantum nonlocality, steerability classification, multipartite Bell scenarios, and quantum catalysis.
         highlights:
-          - "Quantum Nonlocality & SVMs: Engineered a novel SVM pipeline to classify Local Hidden States (LHS) and quantum steerability by compressing 2-qubit density matrices into a 9-dimensional Fano feature representation. Extracted a novel algebraic formula to capture quantum nonlocality, overcame traditional LP bottlenecks by implementing convex optimization pipelines using MOSEK, and presented findings to the UNICAMP physics department."
-          - "Multipartite Bell Scenarios (paper in preparation): Defining high-dimensional polytopes and applying vertex annotation (PORTA, PANDA) to discover novel Bell inequalities. Utilizing convex optimization (CVXPY), linear programming, and see-saw techniques to model complex quantum correlations."
-          - "Quantum Catalysis (paper in preparation): Investigating the catalytic power of quantum states across different dimensions, analyzing entanglement as a novel thermodynamic and informational resource."
+          - "Quantum Nonlocality & SVMs: Engineered a novel SVM pipeline to classify Local Hidden States (LHS) and quantum steerability by compressing 2-qubit density matrices into a 9-dimensional Fano feature representation. Extracted a novel algebraic formula to capture quantum nonlocality, overcame traditional LP bottlenecks by implementing convex optimisation pipelines using MOSEK, and presented findings to the UNICAMP physics department."
+          - "Multipartite Bell Scenarios (paper in preparation): Defining high-dimensional polytopes and applying vertex annotation (PORTA, PANDA) to discover novel Bell inequalities. Utilizing convex optimisation (CVXPY), linear programming, and see-saw techniques to model complex quantum correlations."
+          - "Quantum Catalysis (paper in preparation): Investigating the catalytic power of quantum states across different dimensions, analysing entanglement as a novel thermodynamic and informational resource."
 
       - company: Charles University
         position: AI Researcher
@@ -65,7 +65,7 @@ cv:
           - "Adversarial AI: Achieved >75% attack success rate on Vision Transformer and CNN models by engineering adversarial patch attacks using PyTorch."
           - "HPC Simulation: Designed and implemented reproducible Python-based machine learning pipelines, consuming over 500 GPU days on the MetaCentrum cluster."
           - "Scientific Workflow: Collaborated in an agile research environment using Git for version control and documenting experimental results for academic publication."
-          - "Model Optimization: Integrated pre-trained models and applied optimization techniques to improve reliability and performance on large image datasets."
+          - "Model Optimisation: Integrated pre-trained models and applied optimisation techniques to improve reliability and performance on large image datasets."
 
     Publications:
       - title: Adversarial Patch Attacks on Vision Transformers and Deep Neural Networks
@@ -82,15 +82,15 @@ cv:
         publisher: In preparation (UNICAMP & Sorbonne University)
         releaseDate: 2026
         url: https://github.com/TamarNoselidze/SVM-Nonlocality-Boundary
-        summary: Novel SVM pipeline to classify quantum steerability and LHS boundaries with convex optimization acceleration.
+        summary: Novel SVM pipeline to classify quantum steerability and LHS boundaries with convex optimisation acceleration.
 
     Skills:
-      - name: Quantum & Optimization
+      - name: Quantum & Optimisation
         level: Advanced
         icon: fa-solid fa-atom
-        keywords: "Convex Optimization, Linear Programming, See-Saw Technique, Hybrid ML-Quantum Algorithms, Bell Nonlocality"
+        keywords: "Convex Optimisation, Linear Programming, See-Saw Technique, Hybrid ML-Quantum Algorithms, Bell Nonlocality"
 
-      - name: Optimization & Scientific Tooling
+      - name: Optimisation & Scientific Tooling
         level: Advanced
         icon: fa-solid fa-microchip
         keywords: "MOSEK, CVXPY, PORTA, PANDA, RANDA, NumPy, Pandas"
