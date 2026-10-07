@@ -16,28 +16,6 @@ cv:
     countryCode: FR
 
   sections:
-    Education:
-      - institution: Sorbonne University
-        location: Paris, France
-        url: https://www.sorbonne-universite.fr/
-        area: Quantum Information (QI)
-        studyType: Master of Science
-        start_date: 2025
-        end_date: Present
-        highlights:
-          - "Coursework: Quantum Algorithms, Quantum Dynamics, Quantum Information Theory, Mathematical Algorithms & Complexity, Data Science & Statistical Learning, Photonic Quantum Computing, Quantum Cryptography."
-
-      - institution: Charles University
-        location: Prague, Czech Republic
-        url: https://cuni.cz/
-        area: Computer Science - Artificial Intelligence
-        studyType: Bachelor of Science
-        start_date: 2021
-        end_date: 2025
-        highlights:
-          - "Focused on Artificial Intelligence and Machine Learning with a rigorous mathematical foundation."
-          - "Coursework: Linear Algebra, Probability & Statistics, Graph Theory, Mathematical Analysis, Machine Learning, Computer Vision, NLP."
-
     Experience:
       - company: UNICAMP & Sorbonne University
         position: Quantum Information Researcher
@@ -68,6 +46,30 @@ cv:
           - "HPC Simulation: Designed and implemented reproducible Python-based machine learning pipelines, consuming over 500 GPU days on the MetaCentrum cluster."
           - "Scientific Workflow: Collaborated in an agile research environment using Git for version control and documenting experimental results for academic publication."
           - "Model Optimisation: Integrated pre-trained models and applied optimisation techniques to improve reliability and performance on large image datasets."
+          - "[GitHub Repository](https://github.com/TamarNoselidze/Thesis)"
+          - "[Published Thesis](https://dspace.cuni.cz/handle/20.500.11956/200886)"
+
+    Education:
+      - institution: Sorbonne University
+        location: Paris, France
+        url: https://www.sorbonne-universite.fr/
+        area: Quantum Information (QI)
+        studyType: Master of Science
+        start_date: 2025
+        end_date: Present
+        highlights:
+          - "Coursework: Quantum Algorithms, Quantum Dynamics, Quantum Information Theory, Mathematical Algorithms & Complexity, Data Science & Statistical Learning, Photonic Quantum Computing, Quantum Cryptography."
+
+      - institution: Charles University
+        location: Prague, Czech Republic
+        url: https://cuni.cz/
+        area: Computer Science - Artificial Intelligence
+        studyType: Bachelor of Science
+        start_date: 2021
+        end_date: 2025
+        highlights:
+          - "Focused on Artificial Intelligence and Machine Learning with a rigorous mathematical foundation."
+          - "Coursework: Linear Algebra, Probability & Statistics, Graph Theory, Mathematical Analysis, Machine Learning, Computer Vision, NLP."
 
     Skills:
       - name: Quantum & Optimisation
@@ -80,7 +82,7 @@ cv:
 
       - name: Development & HPC
         icon: fa-solid fa-server
-        keywords: "Git/GitHub, Docker, Singularity, Bash, Linux, HPC Workflows (MetaCentrum)"
+        keywords: "Git/GitHub, Docker, Singularity (Containerisation), Bash, Linux, HPC Workflows (MetaCentrum)"
 
       - name: Programming Languages
         icon: fa-solid fa-code
@@ -90,10 +92,22 @@ cv:
         icon: fa-solid fa-brain
         keywords: "PyTorch, Hugging Face Transformers, SVMs, Scikit-learn, Computer Vision, Adversarial Robustness"
 
+    Volunteering:
+      - organization: Helping Hand (NGO)
+        position: Volunteer Tutor
+        location: Tbilisi, Georgia
+        start_date: 2020
+        end_date: 2023
+        highlights:
+          - "Developed strong interpersonal skills by working with diverse groups and adapting to challenging environments."
+          - "Maintained high levels of patience and encouragement while managing multiple tasks simultaneously."
+
     Languages:
       - name: English
         summary: Fluent
       - name: Georgian
         summary: Native
+      - name: Russian
+        summary: Intermediate
       - name: French
         summary: Beginner
