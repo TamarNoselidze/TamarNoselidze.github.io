@@ -4,7 +4,7 @@ title: Adversarial AI & HPC Simulation
 description: Adversarial patch attacks on Vision Transformers and CNNs with large-scale HPC pipelines on MetaCentrum cluster.
 img: 
 importance: 4
-category: Machine Learning & HPC
+category: Machine Learning & AI
 related_publications: true
 ---
 

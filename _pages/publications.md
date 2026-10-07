@@ -28,6 +28,14 @@ nav_order: 3
     color: #111827 !important;
     font-weight: 600 !important;
   }
+
+  /* Light purple/pink styling for 'Report' badge */
+  .publications ol.bibliography li .abbr abbr[style*="c084fc"],
+  .publications ol.bibliography li .abbr abbr.report {
+    background-color: #c084fc !important;
+    color: #3b0764 !important;
+    font-weight: 600 !important;
+  }
 </style>
 
 <!-- Bibsearch Feature (commented out for now) -->
@@ -42,10 +50,16 @@ nav_order: 3
 <script>
   document.addEventListener("DOMContentLoaded", function() {
     document.querySelectorAll(".publications ol.bibliography li .abbr abbr").forEach(function(el) {
-      if (el.textContent.trim().toLowerCase().includes("in prep")) {
+      const text = el.textContent.trim().toLowerCase();
+      if (text.includes("in prep")) {
         el.classList.add("in-prep");
         el.style.setProperty("background-color", "#f59e0b", "important");
         el.style.setProperty("color", "#111827", "important");
+        el.style.setProperty("font-weight", "600", "important");
+      } else if (text.includes("report")) {
+        el.classList.add("report");
+        el.style.setProperty("background-color", "#c084fc", "important");
+        el.style.setProperty("color", "#3b0764", "important");
         el.style.setProperty("font-weight", "600", "important");
       }
     });
