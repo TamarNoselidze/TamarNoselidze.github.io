@@ -2,9 +2,10 @@
 layout: page
 title: Quantum State Catalysis Across Dimensions
 description: Computational investigation and dimensional scaling of catalytic power in entanglement-assisted LOCC state transformations.
+img: assets/img/catalysis_poster.jpg
 importance: 3
 category: Quantum Information
-related_publications: true
+related_publications: false
 ---
 
 ### Overview
@@ -16,6 +17,17 @@ $$|\psi_1\rangle \otimes |\phi\rangle \xrightarrow{\text{LOCC}} |\psi_2\rangle \
 While Nielsen's majorisation criterion ($\boldsymbol{\lambda}_1 \prec \boldsymbol{\lambda}_2$) dictates when deterministic LOCC transitions are possible, borrowing an auxiliary catalyst $|\phi\rangle$ with Schmidt spectrum $\boldsymbol{\beta}$ unlocks transitions between incomparable pairs.
 
 This project is a computational investigation conducted with the **Mathematical Foundations of Quantum Theory (MFQ) group at UNICAMP (Campinas, Brazil)** to quantify and define **catalytic power** across dimensions.
+
+<div class="row justify-content-sm-center my-4">
+  <div class="col-sm-12 text-center">
+    <a href="{{ '/assets/pdf/catalysis_poster.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">
+      <img src="{{ '/assets/img/catalysis_poster.jpg' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Quantum State Catalysis Research Poster" style="width: 100%; border: 1px solid var(--global-divider-color);">
+    </a>
+    <div class="caption text-muted mt-2" style="font-size: 0.9rem;">
+      Research poster presented on entanglement catalysis and dimensional scaling at UNICAMP (Campinas, Brazil). Click image to view full vector PDF.
+    </div>
+  </div>
+</div>
 
 ---
 
@@ -46,7 +58,7 @@ This project is a computational investigation conducted with the **Mathematical 
 
 <div class="my-3">
   <a href="{{ '/assets/pdf/catalysis_poster.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer" class="btn btn-sm z-depth-0" style="border: 1.5px solid var(--global-theme-color); color: var(--global-theme-color); font-weight: 600; padding: 0.4rem 0.9rem;">
-    <i class="fa-solid fa-file-pdf mr-1"></i> View Research Poster (PDF)
+    <i class="fa-solid fa-file-pdf mr-1"></i> View Full Research Poster (PDF)
   </a>
 </div>
 

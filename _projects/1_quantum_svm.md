@@ -5,7 +5,7 @@ description: Machine learning classification of Local Hidden States (LHS) and qu
 img: assets/img/group_pic.jpg
 importance: 1
 category: Quantum Information
-related_publications: true
+related_publications: false
 ---
 
 ### Overview

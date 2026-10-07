@@ -4,7 +4,7 @@ title: Multipartite Bell Scenarios
 description: Polytope facet enumeration and vertex annotation (PORTA, PANDA) to discover novel Bell inequalities in multipartite quantum systems.
 importance: 2
 category: Quantum Information
-related_publications: true
+related_publications: false
 ---
 
 ### Overview
@@ -30,7 +30,7 @@ This research was initiated during my **M1 research internship at UNICAMP (Campi
 
 ---
 
-### Key References
+### References
 
 1. Temistocles, T., Rabelo, R., & Cunha, M. T. (2018). *Measurement compatibility in Bell nonlocality tests*. [arXiv:1806.09232](https://arxiv.org/abs/1806.09232)
 2. Cope, T. & Colbeck, R. (2018). *Bell Inequalities From No-Signalling Distributions*. [arXiv:1812.10017](https://arxiv.org/abs/1812.10017)
