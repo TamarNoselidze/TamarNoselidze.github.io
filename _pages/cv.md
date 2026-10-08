@@ -128,6 +128,7 @@ Providing private tuition for high school students in Mathematics and English. S
 ### [Bachelor of Science](https://cuni.cz/)
 **Charles University** | Prague, Czech Republic | 2021 – 2025  
 **Computer Science - Artificial Intelligence**  
+**Thesis**: *Adversarial Examples Against Vision Transformers* (Supervised by Doc. Mgr. Martin Pilát, Ph.D.)  
 Focused on Artificial Intelligence and Machine Learning with a rigorous mathematical foundation.  
 **Coursework**: Linear Algebra, Probability & Statistics, Graph Theory, Mathematical Analysis, Machine Learning, Computer Vision, NLP.
 
