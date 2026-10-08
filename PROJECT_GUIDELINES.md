@@ -5,12 +5,14 @@ This document records the conventions, style choices, and architectural decision
 ---
 
 ## 1. Language & Spelling
+
 - **Dialect**: **British English** throughout all pages, project descriptions, publications, and CV content.
-  - Examples: *optimisation* (not optimization), *modelling* (not modeling), *specialisation* (not specialization), *catalysing* (not catalyzing).
+  - Examples: _optimisation_ (not optimization), _modelling_ (not modeling), _specialisation_ (not specialization), _catalysing_ (not catalyzing).
 
 ---
 
 ## 2. Color Palette & Visual Theme
+
 - **Primary Accent**: Dark forest green:
   - Light mode: `#1b6b3a`
   - Dark mode: `#2ebb77`
@@ -23,6 +25,7 @@ This document records the conventions, style choices, and architectural decision
 ---
 
 ## 3. LaTeX & Math Rendering Rules
+
 - **Bra-Ket Notation**: **Never use literal ASCII pipe characters (`|`)** inside inline or block math (e.g. avoid `$|\phi\rangle$`).
   - **Reason**: Jekyll's Kramdown parser (GFM mode) interprets `|` as a Markdown table column delimiter before MathJax processes the page, wrapping the text into a broken HTML table.
   - **Standard**: Always use LaTeX commands `\lvert` and `\rvert` or `\vert`:
@@ -32,6 +35,7 @@ This document records the conventions, style choices, and architectural decision
 ---
 
 ## 4. Projects Page Structure
+
 - **Frontmatter**: Always set `related_publications: false` to prevent Jekyll from auto-appending a duplicate bibliography section.
 - **References**: Use a single manual `### References` header at the bottom of each project page for consistent citations.
 - **Image Assets**: High-resolution project figures (e.g., conference posters, group photos) reside in `assets/img/`, with full-resolution PDFs in `assets/pdf/`.
@@ -39,5 +43,6 @@ This document records the conventions, style choices, and architectural decision
 ---
 
 ## 5. Publications & CV
+
 - **Publications Filter Bar**: Hidden via `d-none` on the search input in `_pages/publications.md`.
 - **CV Page**: Clean unboxed layout; Experience section placed before Education; "Download CV" button styled prominently beside the page title.
