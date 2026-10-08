@@ -58,7 +58,7 @@ Using a polynomial kernel of degree $d=2$, we trained the SVM to separate the cl
 - **Coupled Correlations**: The cross-terms of the correlation singular values ($-10.05 s_1 s_2$ and $-9.53 s_1 s_3$) emerged as the dominant weights, proving that invariant inter-qubit correlations are the primary drivers of quantum nonlocality.
 
 #### 4. Werner State Verification
-Benchmarked against the family of Werner states $\rho_W(p) = p |\psi^-\rangle\langle\psi^-| + \frac{1-p}{4} I$, where the theoretical LHS threshold is known exactly at $p = 0.5$:
+Benchmarked against the family of Werner states $\rho_W(p) = p \lvert\psi^-\rangle\langle\psi^-\rvert + \frac{1-p}{4} I$, where the theoretical LHS threshold is known exactly at $p = 0.5$:
 - Baseline model threshold: $p \approx 0.482$
 - **Targeted boundary model threshold: $p \approx 0.508$**, confirming that boundary training accurately captures the physical geometry of steerability.
 

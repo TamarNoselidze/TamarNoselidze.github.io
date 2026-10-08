@@ -12,9 +12,9 @@ related_publications: false
 
 In quantum resource theories, **entanglement catalysis** occurs when an auxiliary entangled state enables an otherwise forbidden state transformation under Local Operations and Classical Communication (LOCC) without being consumed or degraded:
 
-$$|\psi_1\rangle \otimes |\phi\rangle \xrightarrow{\text{LOCC}} |\psi_2\rangle \otimes |\phi\rangle \iff \boldsymbol{\lambda}_1 \otimes \boldsymbol{\beta} \prec \boldsymbol{\lambda}_2 \otimes \boldsymbol{\beta}$$
+$$ \lvert\psi_1\rangle \otimes \lvert\phi\rangle \xrightarrow{\text{LOCC}} \lvert\psi_2\rangle \otimes \lvert\phi\rangle \iff \boldsymbol{\lambda}_1 \otimes \boldsymbol{\beta} \prec \boldsymbol{\lambda}_2 \otimes \boldsymbol{\beta} $$
 
-While Nielsen's majorisation criterion ($\boldsymbol{\lambda}_1 \prec \boldsymbol{\lambda}_2$) dictates when deterministic LOCC transitions are possible, borrowing an auxiliary catalyst $|\phi\rangle$ with Schmidt spectrum $\boldsymbol{\beta}$ unlocks transitions between incomparable pairs.
+While Nielsen's majorisation criterion ($\boldsymbol{\lambda}_1 \prec \boldsymbol{\lambda}_2$) dictates when deterministic LOCC transitions are possible, borrowing an auxiliary catalyst $\lvert\phi\rangle$ with Schmidt spectrum $\boldsymbol{\beta}$ unlocks transitions between incomparable pairs.
 
 This project is a computational investigation conducted with the **Mathematical Foundations of Quantum Theory (MFQ) group at UNICAMP (Campinas, Brazil)** to quantify and define **catalytic power** across dimensions.
 
