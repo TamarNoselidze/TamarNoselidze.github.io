@@ -52,14 +52,14 @@ Evaluated standard white-box adversarial attacks across both families in targete
 #### 2. Universal Generative Patches (G-Patch)
 Implemented and expanded generative patch attacks based on GAN architectures (Shao, 2024), deploying universal patches at randomised locations per image:
 - Trained generators for localised **64×64** (~8% image area) and **80×80** (~13% area) patches.
-- Replicated state-of-the-art results, achieving **~75–90% ASR on ViTs** and **~80–95% ASR on CNNs**.
+- Replicated state-of-the-art results, achieving **~75-90% ASR on ViTs** and **~80-95% ASR on CNNs**.
 
 #### 3. Novel Mini-Patch Attacks
 Designed a novel multi-patch framework training generators to create smaller patches distributed across several image locations (covering the same ~8% total area):
 - **Random Placement**: Deploys smaller $16\times16$ or $32\times32$ patches randomly across 4 to 8 locations.
 - **Corner-Point Targeting**: Exploits internal ViT tokenisation by aligning patches at the intersection of token grid corners, corrupting adjacent token representations simultaneously.
 - **Token-Replacement**: Substitutes entire ViT patch tokens directly with adversarial inputs.
-- **Key Finding**: The **corner-point** approach was the most consistent and effective, achieving **60–70% ASR on ViTs** and demonstrating that structured geometric alignment with token boundaries creates potent vulnerabilities.
+- **Key Finding**: The **corner-point** approach was the most consistent and effective, achieving **60-70% ASR on ViTs** and demonstrating that structured geometric alignment with token boundaries creates potent vulnerabilities.
 
 #### 4. Transferability & Mixed Ensembles
 - **Intra-family transfer** (e.g. ViT $\to$ ViT) proved significantly stronger than inter-family transfer (ViT $\to$ CNN).
