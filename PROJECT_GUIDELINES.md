@@ -46,3 +46,11 @@ This document records the conventions, style choices, and architectural decision
 
 - **Publications Filter Bar**: Hidden via `d-none` on the search input in `_pages/publications.md`.
 - **CV Page**: Clean unboxed layout; Experience section placed before Education; "Download CV" button styled prominently beside the page title.
+
+---
+
+## 6. Git Operations & Version Control
+
+- **UI Permission Prompts**: Propose git operations (`git add`, `git commit`, `git push`) directly through command execution tool calls so the user receives the interactive system permission prompt ('Allow this time', 'Allow always in this conversation', etc.) in the interface, rather than asking via chat text questions.
+- **Granular Steps**: Keep git operations separated into individual commands (e.g. `git commit` followed by `git push`) so each stage can be approved individually.
+

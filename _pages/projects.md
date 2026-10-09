@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Research projects in quantum information, convex optimisation, and machine learning.
+description: Research projects in quantum information, convex optimisation, machine learning, and personal software development.
 nav: true
 nav_order: 2
-display_categories: ["Quantum Information", "Machine Learning & AI"]
+display_categories: ["Quantum Information", "Machine Learning & AI", "Personal Projects"]
 horizontal: false
 ---
 
