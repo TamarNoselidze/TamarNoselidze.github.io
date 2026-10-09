@@ -2,6 +2,7 @@
 layout: page
 title: "Spotify Data Analysis"
 description: Exploratory data analysis and popularity predictive modelling on 128,000+ Spotify tracks across decades using Spotipy API and Scikit-Learn.
+img: assets/img/spotify.webp
 importance: 6
 category: Machine Learning & AI
 related_publications: false

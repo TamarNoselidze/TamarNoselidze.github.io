@@ -2,6 +2,7 @@
 layout: page
 title: "15-Puzzle Solver"
 description: Purely functional A* state-space search algorithm with Manhattan distance heuristics and custom Leftist Heaps in Haskell.
+img: assets/img/puzzle.png
 importance: 7
 category: Machine Learning & AI
 related_publications: false

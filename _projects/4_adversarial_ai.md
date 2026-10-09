@@ -2,7 +2,7 @@
 layout: page
 title: Adversarial Examples Against Vision Transformers
 description: Bachelor's thesis evaluating white-box attacks, universal G-Patches, novel Mini-Patch strategies, and cross-architecture transferability on HPC clusters.
-img: assets/img/thesis_defense.jpg
+img: assets/img/thesis_poster.jpg
 importance: 4
 category: Machine Learning & AI
 related_publications: false

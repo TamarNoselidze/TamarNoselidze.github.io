@@ -2,7 +2,7 @@
 layout: page
 title: "Global Drivers of Respiratory Mortality"
 description: Multi-decadal machine learning analysis (1980–2023) across 180+ countries evaluating meteorological stress and satellite pollution data with spatial leakage control.
-img: assets/img/dalas_feature_importance.png
+img: assets/img/climate.webp
 importance: 5
 category: Machine Learning & AI
 related_publications: false
