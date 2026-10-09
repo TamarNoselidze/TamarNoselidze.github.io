@@ -53,4 +53,3 @@ This document records the conventions, style choices, and architectural decision
 
 - **UI Permission Prompts**: Propose git operations (`git add`, `git commit`, `git push`) directly through command execution tool calls so the user receives the interactive system permission prompt ('Allow this time', 'Allow always in this conversation', etc.) in the interface, rather than asking via chat text questions.
 - **Granular Steps**: Keep git operations separated into individual commands (e.g. `git commit` followed by `git push`) so each stage can be approved individually.
-
