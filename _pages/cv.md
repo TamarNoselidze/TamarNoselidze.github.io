@@ -146,6 +146,13 @@ Focused on Artificial Intelligence and Machine Learning with a rigorous mathemat
 
 ## Volunteering
 
+### Co-Founder & Web Developer
+**Long Swim to Freedom** | France & South Africa | 2026 – Present  
+- Co-founded non-profit initiative in France alongside partners in South Africa, dedicated to rural child drowning prevention and rhino anti-poaching around the iSimangaliso Wetland Park.
+- Designed and developed the organisation's official campaign website to mobilise international awareness, secure partnerships, and facilitate donations for community swimming programmes and ranger units.
+
+<br>
+
 ### Volunteer Tutor
 **Helping Hand (NGO)** | Tbilisi, Georgia | 2020 – 2023  
 - Developed strong interpersonal skills by working with diverse groups and adapting to challenging environments.
