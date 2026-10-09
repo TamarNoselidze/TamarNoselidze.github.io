@@ -2,7 +2,8 @@
 layout: page
 title: "Workout Planner"
 description: Multi-language console application implemented in both Java and C# to design, customise, and manage personalised workout routines and nutritional metrics with external API integration.
-importance: 1
+img: assets/img/gym.png
+importance: 2
 category: Personal Projects
 related_publications: false
 ---

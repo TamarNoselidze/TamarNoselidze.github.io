@@ -2,8 +2,8 @@
 layout: page
 title: "Long Swim to Freedom"
 description: Digital campaign and documentary expedition platform advocating for rural water safety and wildlife anti-poaching in South Africa.
-img: assets/img/rhino.png
-importance: 2
+img: assets/img/rhino.jpg
+importance: 1
 category: Personal Projects
 related_publications: false
 ---
@@ -20,8 +20,8 @@ The platform serves as the central digital communication vehicle to mobilise int
 
 <div class="row justify-content-sm-center my-4">
   <div class="col-sm-10 text-center">
-    <a href="{{ '/assets/img/rhino.png' | relative_url }}" target="_blank" rel="noopener noreferrer">
-      <img src="{{ '/assets/img/rhino.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Rhino Conservation in South Africa" style="width: 100%; max-height: 460px; object-fit: cover; border: 1px solid var(--global-divider-color);">
+    <a href="{{ '/assets/img/rhino.jpg' | relative_url }}" target="_blank" rel="noopener noreferrer">
+      <img src="{{ '/assets/img/rhino.jpg' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Rhino Conservation in South Africa" style="width: 100%; max-height: 460px; object-fit: cover; border: 1px solid var(--global-divider-color);">
     </a>
     <div class="caption text-muted mt-2" style="font-size: 0.85rem;">
       Wildlife conservation and anti-poaching initiatives highlighted in the Long Swim to Freedom documentary expedition.

@@ -2,6 +2,7 @@
 layout: page
 title: "Board Game Pente"
 description: Graphical recreation of the abstract strategy board game Pente featuring custom capture mechanics and Model-View architecture in C# and GTK#.
+img: assets/img/pente.jpg
 importance: 3
 category: Personal Projects
 related_publications: false

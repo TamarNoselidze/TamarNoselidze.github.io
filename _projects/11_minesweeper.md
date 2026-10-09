@@ -2,6 +2,7 @@
 layout: page
 title: "Minesweeper"
 description: Desktop implementation of the classic Minesweeper puzzle game with customisable board grids and recursive flood-fill tile clearance in Python and Tkinter.
+img: assets/img/minesweeper.webp
 importance: 4
 category: Personal Projects
 related_publications: false
