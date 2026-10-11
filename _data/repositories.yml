@@ -3,5 +3,36 @@ github_users:
 
 repo_description_lines_max: 2
 
+# All portfolio repositories
 github_repos:
   - TamarNoselidze/SVM-Nonlocality-Boundary
+  - TamarNoselidze/Bell-Inequality-Scenarios
+  - TamarNoselidze/Quantum-Catalysis
+  - TamarNoselidze/Thesis
+  - TamarNoselidze/DALAS-Project
+  - TamarNoselidze/Spotify-Data-Analysis
+  - TamarNoselidze/15-Puzzle-Solver
+  - TamarNoselidze/Long-Swim-to-Freedom
+  - TamarNoselidze/WorkoutPlanner
+  - TamarNoselidze/Workout-Planner
+  - TamarNoselidze/Pente-Game
+  - TamarNoselidze/Minesweeper
+
+# Categorised repository groupings aligned with portfolio research and development domains
+github_repos_quantum:
+  - TamarNoselidze/SVM-Nonlocality-Boundary
+  - TamarNoselidze/Bell-Inequality-Scenarios
+  - TamarNoselidze/Quantum-Catalysis
+
+github_repos_ml:
+  - TamarNoselidze/Thesis
+  - TamarNoselidze/DALAS-Project
+  - TamarNoselidze/Spotify-Data-Analysis
+  - TamarNoselidze/15-Puzzle-Solver
+
+github_repos_personal:
+  - TamarNoselidze/Long-Swim-to-Freedom
+  - TamarNoselidze/WorkoutPlanner
+  - TamarNoselidze/Workout-Planner
+  - TamarNoselidze/Pente-Game
+  - TamarNoselidze/Minesweeper
