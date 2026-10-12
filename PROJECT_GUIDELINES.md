@@ -61,4 +61,3 @@ This document records the conventions, style choices, and architectural decision
 - **Domain Categorisation**: Group repositories under the same research and development categories established on the Projects page (`Quantum Information`, `Machine Learning & AI`, `Personal Projects`).
 - **Section Headers**: Use dark slate grey (`#4b5563` in light mode, `#9ca3af` in dark mode) with a bottom divider line for visual hierarchy.
 - **Card Sizing**: Maintain `width: 50%` on medium and larger viewports (`min-width: 768px`) for consistent two-column alignment across odd and even counts of repository cards.
-
