@@ -1,7 +1,9 @@
 cv:
   name: Tamar Noselidze
   label: Quantum Information Master's Student
+  summary: "Quantum Information Master’s student at Sorbonne University combining a strong mathematical foundation with machine learning, convex optimisation, and high-performance computing. Seeking a 6-month M2 internship in quantum information and quantum computing."
   email: noselidzetamar@gmail.com
+  phone: "+33 7 59 11 38 79"
   location: Paris, France
   image: ""
 
@@ -17,16 +19,15 @@ cv:
 
   sections:
     Experience:
-      - company: UNICAMP & Sorbonne University
-        position: Quantum Information Researcher
-        location: Campinas & Paris
+      - company: The State University of Campinas (UNICAMP)
+        position: Quantum Information Research Intern
+        location: Campinas, Brazil
         start_date: 05/2026
         end_date: Present
-        summary: Research in different groups, across various topics such as quantum nonlocality, steerability classification, multipartite Bell scenarios, and quantum catalysis.
         highlights:
-          - "Quantum Nonlocality & SVMs: Engineered a novel SVM pipeline to classify Local Hidden States (LHS) and quantum steerability by compressing 2-qubit density matrices into a 9-dimensional Fano feature representation. Extracted a novel algebraic formula to capture quantum nonlocality, overcame traditional LP bottlenecks by implementing convex optimisation pipelines using MOSEK, and presented findings to the UNICAMP physics department."
-          - "Multipartite Bell Scenarios (paper in preparation): Defining high-dimensional polytopes and applying vertex annotation (PORTA, PANDA) to discover novel Bell inequalities. Using convex optimisation (CVXPY), linear programming, and see-saw techniques to model complex quantum correlations."
-          - "Quantum Catalysis (paper in preparation): Investigating the catalytic power of quantum states across different dimensions, analysing entanglement as a novel thermodynamic and informational resource."
+          - "Quantum Nonlocality & SVMs: Engineered a novel SVM pipeline to classify Local Hidden States (LHS) and quantum steerability by compressing 2-qubit density matrices into a 9D Fano representation. Extracted a novel algebraic formula to capture nonlocality, overcame LP bottlenecks using MOSEK, and presented findings to UNICAMP physics department. [Code]"
+          - "Multipartite Bell Scenarios (Paper in preparation): Defining high-dimensional polytopes and applying vertex annotation (PORTA, PANDA) to discover novel Bell inequalities. Modelling quantum correlations via convex optimisation (CVXPY), linear programming, and see-saw techniques."
+          - "Quantum Catalysis (Paper in preparation): Investigating catalytic power of quantum states across dimensions, analysing entanglement as a novel thermodynamic and informational resource."
 
       - company: Self-Employed
         position: Student Job | Tutoring
@@ -36,16 +37,15 @@ cv:
         summary: Providing private tuition for high school students in Mathematics and English. Specialising in advanced high school calculus, pre-calculus, algebra, and standardised test preparation (SAT). Mentoring students to strengthen mathematical problem-solving skills and intuition.
 
       - company: Charles University
-        position: AI Researcher
+        position: AI Researcher – Bachelor’s Research
         location: Prague, Czech Republic
         start_date: 2024
         end_date: 2025
-        summary: Bachelor's research on adversarial deep learning and high-performance computing.
         highlights:
-          - "Adversarial AI: Achieved >75% attack success rate on Vision Transformer and CNN models by engineering adversarial patch attacks using PyTorch."
-          - "HPC Simulation: Designed and implemented reproducible Python-based machine learning pipelines, consuming over 500 GPU days on the MetaCentrum cluster."
-          - "Scientific Workflow: Collaborated in an agile research environment using Git for version control and documenting experimental results for academic publication."
-          - "Model Optimisation: Integrated pre-trained models and applied optimisation techniques to improve reliability and performance on large image datasets."
+          - "Adversarial AI: Achieved >75% attack success rate on Vision Transformer and CNN architectures by engineering adversarial patch attacks using PyTorch. [Code] [Thesis]"
+          - "HPC Simulation: Designed and deployed reproducible Python-based machine learning pipelines, consuming over 500 GPU days on the MetaCentrum supercomputing cluster."
+          - "Model Optimisation: Integrated pre-trained models and applied optimisation techniques to improve reliability and performance across large-scale image datasets."
+          - "Scientific Workflow: Collaborated in an agile research team, leveraging Git for version control and systematically documenting experimental methodologies for academic publication."
           - "[GitHub Repository](https://github.com/TamarNoselidze/Thesis)"
           - "[Published Thesis](https://dspace.cuni.cz/handle/20.500.11956/200886)"
 
@@ -58,39 +58,39 @@ cv:
         start_date: 2025
         end_date: Present
         highlights:
-          - "Coursework: Quantum Algorithms, Quantum Dynamics, Quantum Information Theory, Mathematical Algorithms & Complexity, Data Science & Statistical Learning, Photonic Quantum Computing, Quantum Cryptography."
+          - "Relevant Coursework: Quantum Algorithms, Quantum Dynamics, Quantum Information Theory, Mathematical Algorithms & Complexity, Data Science & Statistical Learning, Photonic Quantum Computing, Quantum Cryptography."
 
       - institution: Charles University
         location: Prague, Czech Republic
         url: https://cuni.cz/
-        area: Computer Science - Artificial Intelligence
+        area: Computer Science – Artificial Intelligence
         studyType: Bachelor of Science
         start_date: 2021
         end_date: 2025
         highlights:
-          - "Focused on Artificial Intelligence and Machine Learning with a rigorous mathematical foundation."
-          - "Coursework: Linear Algebra, Probability & Statistics, Graph Theory, Mathematical Analysis, Machine Learning, Computer Vision, NLP."
+          - "Thesis: Adversarial Examples Against Vision Transformers (Supervisor: Doc. Mgr. Martin Pilát, Ph.D.)"
+          - "Relevant Coursework: Linear Algebra, Probability & Statistics, Graph Theory, Mathematical Analysis, Machine Learning, Computer Vision, Natural Language Processing."
 
     Skills:
-      - name: Quantum & Optimisation
+      - name: Quantum Computing
         icon: fa-solid fa-atom
-        keywords: "Convex Optimisation, Linear Programming, See-Saw Technique, Hybrid ML-Quantum Algorithms, Bell Nonlocality"
+        keywords: "Quantum Algorithms, Quantum Information Theory, Hybrid Quantum-Classical Algorithms, Quantum Cryptography"
 
-      - name: Optimisation & Scientific Tooling
-        icon: fa-solid fa-microchip
-        keywords: "MOSEK, CVXPY, PORTA, PANDA, RANDA, NumPy, Pandas"
-
-      - name: Development & HPC
-        icon: fa-solid fa-server
-        keywords: "Git/GitHub, Docker, Singularity (Containerisation), Bash, Linux, HPC Workflows (MetaCentrum)"
-
-      - name: Programming Languages
-        icon: fa-solid fa-code
-        keywords: "Python, Julia, Java, C#, Haskell, MATLAB"
+      - name: Mathematical Optimisation
+        icon: fa-solid fa-square-root-variable
+        keywords: "Convex Optimisation, Linear Programming, Semidefinite Programming (SDP), MOSEK, CVXPY, PORTA, PANDA, NumPy, Pandas, SciPy"
 
       - name: Machine Learning
         icon: fa-solid fa-brain
-        keywords: "PyTorch, Hugging Face Transformers, SVMs, Scikit-learn, Computer Vision, Adversarial Robustness"
+        keywords: "PyTorch, Hugging Face Transformers, Scikit-learn, Vision Transformers (ViTs), Adversarial Robustness, Computer Vision"
+
+      - name: Programming Languages
+        icon: fa-solid fa-code
+        keywords: "Python (Advanced), Julia, C#, Java, Haskell, MATLAB, Bash"
+
+      - name: Software & Infrastructure
+        icon: fa-solid fa-server
+        keywords: "Git/GitHub, Docker, Singularity (Containerisation), Linux, High-Performance Computing (HPC Workflows)"
 
     Volunteering:
       - organization: Long Swim to Freedom
@@ -99,8 +99,8 @@ cv:
         start_date: 2026
         end_date: Present
         highlights:
-          - "Co-founded non-profit initiative in France alongside partners in South Africa, dedicated to rural child drowning prevention and rhino anti-poaching around the iSimangaliso Wetland Park."
-          - "Designed and developed the organisation's official campaign website to mobilise international awareness, secure partnerships, and facilitate donations for community swimming programmes and ranger units."
+          - "Co-founded non-profit initiative dedicated to rural child drowning prevention and rhino anti-poaching around the iSimangaliso Wetland Park."
+          - "Designed and developed the campaign website to mobilise international awareness, secure partnerships, and facilitate donations for community swimming programmes and ranger units."
 
       - organization: Helping Hand (NGO)
         position: Volunteer Tutor

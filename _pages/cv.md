@@ -77,20 +77,18 @@ nav_order: 1
 
 ## Experience
 
-### Quantum Information Researcher
-**UNICAMP & Sorbonne University**, Campinas & Paris | 05/2026 – Present  
-*Research in different groups, across various topics such as quantum nonlocality, steerability classification, multipartite Bell scenarios, and quantum catalysis.*
+### Quantum Information Research Intern
+**The State University of Campinas (UNICAMP)**, Campinas, Brazil | 05/2026 – Present  
 
 <ul class="cv-research-list">
   <li>
-    <strong>Quantum Nonlocality &amp; SVMs</strong>: Engineered a novel SVM pipeline to classify Local Hidden States (LHS) and quantum steerability by compressing 2-qubit density matrices into a 9-dimensional Fano feature representation. Extracted a novel algebraic formula to capture quantum nonlocality, overcame traditional LP bottlenecks by implementing convex optimisation pipelines using MOSEK, and presented findings to the UNICAMP physics department.<br>
-    <a href="https://github.com/TamarNoselidze/SVM-Nonlocality-Boundary" target="_blank" rel="noopener noreferrer">GitHub Repository</a>
+    <strong>Quantum Nonlocality &amp; SVMs</strong>: Engineered a novel SVM pipeline to classify Local Hidden States (LHS) and quantum steerability by compressing 2-qubit density matrices into a 9D Fano representation. Extracted a novel algebraic formula to capture nonlocality, overcame LP bottlenecks using MOSEK, and presented findings to UNICAMP physics department. [<a href="https://github.com/TamarNoselidze/SVM-Nonlocality-Boundary" target="_blank" rel="noopener noreferrer">Code</a>]
   </li>
   <li>
-    <strong>Multipartite Bell Scenarios (paper in preparation)</strong>: Defining high-dimensional polytopes and applying vertex annotation (using PORTA, PANDA) to discover novel Bell inequalities. Using convex optimisation (in CVXPY), linear programming, and see-saw techniques to model complex quantum correlations.
+    <strong>Multipartite Bell Scenarios (Paper in preparation)</strong>: Defining high-dimensional polytopes and applying vertex annotation (PORTA, PANDA) to discover novel Bell inequalities. Modelling quantum correlations via convex optimisation (CVXPY), linear programming, and see-saw techniques.
   </li>
   <li>
-    <strong>Quantum Catalysis (paper in preparation)</strong>: Investigating the catalytic power of quantum states across different dimensions, analysing entanglement as a novel thermodynamic and informational resource.
+    <strong>Quantum Catalysis (Paper in preparation)</strong>: Investigating catalytic power of quantum states across dimensions, analysing entanglement as a novel thermodynamic and informational resource.
   </li>
 </ul>
 
@@ -102,17 +100,13 @@ Providing private tuition for high school students in Mathematics and English. S
 
 <br>
 
-### AI Researcher
-**Charles University**, Prague | 2024 – 2025  
-*Bachelor’s research on adversarial deep learning and high-performance computing.*
+### AI Researcher – Bachelor’s Research
+**Charles University**, Prague, Czech Republic | 2024 – 2025  
 
-- **Adversarial AI**: Achieved >75% attack success rate on Vision Transformer and CNN models by engineering adversarial patch attacks using PyTorch.
-- **HPC Simulation**: Designed and implemented reproducible Python-based machine learning pipelines, consuming over 500 GPU days on the MetaCentrum cluster.
-- **Scientific Workflow**: Collaborated in an agile research environment using Git for version control and documenting experimental results for academic publication.
-- **Model Optimisation**: Integrated pre-trained models and applied optimisation techniques to improve reliability and performance on large image datasets.
-
-[GitHub Repository](https://github.com/TamarNoselidze/Thesis)  
-[Published Thesis](https://dspace.cuni.cz/handle/20.500.11956/200886)
+- **Adversarial AI**: Achieved >75% attack success rate on Vision Transformer and CNN architectures by engineering adversarial patch attacks using PyTorch. [<a href="https://github.com/TamarNoselidze/Thesis" target="_blank" rel="noopener noreferrer">Code</a>] [<a href="https://dspace.cuni.cz/handle/20.500.11956/200886" target="_blank" rel="noopener noreferrer">Thesis</a>]
+- **HPC Simulation**: Designed and deployed reproducible Python-based machine learning pipelines, consuming over 500 GPU days on the MetaCentrum supercomputing cluster.
+- **Model Optimisation**: Integrated pre-trained models and applied optimisation techniques to improve reliability and performance across large-scale image datasets.
+- **Scientific Workflow**: Collaborated in an agile research team, leveraging Git for version control and systematically documenting experimental methodologies for academic publication.
 
 ---
 
@@ -121,26 +115,26 @@ Providing private tuition for high school students in Mathematics and English. S
 ### [Master of Science](https://www.sorbonne-universite.fr/)
 **Sorbonne University** | Paris, France | 2025 – Present  
 **Quantum Information (QI)**  
-**Coursework**: Quantum Algorithms, Quantum Dynamics, Quantum Information Theory, Mathematical Algorithms & Complexity, Data Science & Statistical Learning, Photonic Quantum Computing, Quantum Cryptography.
+**Relevant Coursework**: Quantum Algorithms, Quantum Dynamics, Quantum Information Theory, Mathematical Algorithms & Complexity, Data Science & Statistical Learning, Photonic Quantum Computing, Quantum Cryptography.
 
 <br>
 
 ### [Bachelor of Science](https://cuni.cz/)
 **Charles University** | Prague, Czech Republic | 2021 – 2025  
-**Computer Science - Artificial Intelligence**  
-**Thesis**: *Adversarial Examples Against Vision Transformers* (Supervised by Doc. Mgr. Martin Pilát, Ph.D.)  
+**Computer Science – Artificial Intelligence**  
+**Thesis**: *Adversarial Examples Against Vision Transformers* (Supervisor: Doc. Mgr. Martin Pilát, Ph.D.)  
 Focused on Artificial Intelligence and Machine Learning with a rigorous mathematical foundation.  
-**Coursework**: Linear Algebra, Probability & Statistics, Graph Theory, Mathematical Analysis, Machine Learning, Computer Vision, NLP.
+**Relevant Coursework**: Linear Algebra, Probability & Statistics, Graph Theory, Mathematical Analysis, Machine Learning, Computer Vision, Natural Language Processing.
 
 ---
 
 ## Skills
 
-- **Quantum & Optimisation**: Convex Optimisation, Linear Programming, See-Saw Technique, Hybrid ML-Quantum Algorithms, Bell Nonlocality
-- **Optimisation & Scientific Tooling**: MOSEK, CVXPY, PORTA, PANDA, RANDA, NumPy, Pandas
-- **Development & HPC**: Git/GitHub, Docker, Singularity (Containerisation), Bash, Linux, HPC Workflows (MetaCentrum)
-- **Programming Languages**: Python, Julia, Java, C#, Haskell, MATLAB
-- **Machine Learning**: PyTorch, Hugging Face Transformers, SVMs, Scikit-learn, Computer Vision, Adversarial Robustness
+- **Quantum Computing**: Quantum Algorithms, Quantum Information Theory, Hybrid Quantum-Classical Algorithms, Quantum Cryptography
+- **Mathematical Optimisation**: Convex Optimisation, Linear Programming, Semidefinite Programming (SDP), MOSEK, CVXPY, PORTA, PANDA, NumPy, Pandas, SciPy
+- **Machine Learning**: PyTorch, Hugging Face Transformers, Scikit-learn, Vision Transformers (ViTs), Adversarial Robustness, Computer Vision
+- **Programming Languages**: Python (Advanced), Julia, C#, Java, Haskell, MATLAB, Bash
+- **Software & Infrastructure**: Git/GitHub, Docker, Singularity (Containerisation), Linux, High-Performance Computing (HPC Workflows)
 
 ---
 
@@ -148,8 +142,8 @@ Focused on Artificial Intelligence and Machine Learning with a rigorous mathemat
 
 ### Co-Founder & Web Developer
 **Long Swim to Freedom** | France & South Africa | 2026 – Present  
-- Co-founded non-profit initiative in France alongside partners in South Africa, dedicated to rural child drowning prevention and rhino anti-poaching around the iSimangaliso Wetland Park.
-- Designed and developed the organisation's official campaign website to mobilise international awareness, secure partnerships, and facilitate donations for community swimming programmes and ranger units.
+- Co-founded non-profit initiative dedicated to rural child drowning prevention and rhino anti-poaching around the iSimangaliso Wetland Park.
+- Designed and developed the campaign website to mobilise international awareness, secure partnerships, and facilitate donations for community swimming programmes and ranger units.
 
 <br>
 
