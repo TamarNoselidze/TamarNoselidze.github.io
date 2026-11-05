@@ -16,6 +16,11 @@ output/playwright/
 test-results/
 vendor
 
+# Local private trackers and notes
+Application Tracker/
+*.local.md
+
 # Python bytecode from bin/ helper scripts
 __pycache__/
 *.pyc
+

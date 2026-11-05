@@ -61,3 +61,14 @@ This document records the conventions, style choices, and architectural decision
 - **Domain Categorisation**: Group repositories under the same research and development categories established on the Projects page (`Quantum Information`, `Machine Learning & AI`, `Personal Projects`).
 - **Section Headers**: Use dark slate grey (`#4b5563` in light mode, `#9ca3af` in dark mode) with a bottom divider line for visual hierarchy.
 - **Card Sizing**: Maintain `width: 50%` on medium and larger viewports (`min-width: 768px`) for consistent two-column alignment across odd and even counts of repository cards.
+
+---
+
+## 8. Photography Section
+
+- **Location & Navigation**: Page defined at `_pages/photography.md` with `permalink: /photography/`, `nav: true`, and `nav_order: 5`.
+- **Image Directory**: Photos reside in `assets/img/photography/` (accessible at the portfolio root via the `photography/` symlink).
+- **Metadata Configuration**: Captions and analogue film metadata (film stock, camera, location, year, description) configured via `_data/photography.yml`.
+- **Auto-Discovery**: Any image file placed in `assets/img/photography/` is automatically detected and displayed even if not yet listed in `_data/photography.yml`.
+- **Viewer & Lightbox**: Interactive full-resolution zoom and keyboard navigation powered by Spotlight.js (`class="spotlight" data-group="film-gallery"`).
+

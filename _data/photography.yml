@@ -1,0 +1,28 @@
+# Film Photography Gallery Data
+# -----------------------------------------------------------------------------
+# Instructions:
+# 1. Place your film photo scans/images into the `photography/` directory
+#    (located at `Portfolio/photography` or `TamarNoselidze.github.io/assets/img/photography/`).
+# 2. Add an entry below for each photo you wish to display with custom notes.
+# 3. Note: Any photo dropped into the photography folder will also appear in the
+#    gallery even if not listed below! Adding an entry here allows you to provide
+#    rich metadata: title, film stock, camera, location, year, and a personal caption.
+#
+# Available fields:
+#   image: Filename (e.g., "sunset_rome.jpg")
+#   title: Title or subject of the photograph
+#   film: Film stock used (e.g., "Kodak Portra 400", "Ilford HP5 Plus", "Kodak Gold 200", "Fujifilm Superia 400")
+#   camera: Camera and lens used (e.g., "Olympus OM-1 · 50mm f/1.8", "Canon AE-1")
+#   location: Location where the frame was captured (e.g., "Rome, Italy")
+#   year: Year of capture (e.g., 2024)
+#   caption: A short note, memory, or reflection behind the photograph
+# -----------------------------------------------------------------------------
+
+# Example entries (uncomment and replace with your own photos):
+# - image: rome_golden_hour.jpg
+#   title: Golden Hour by the Tiber
+#   film: Kodak Portra 400
+#   camera: Olympus OM-1
+#   location: Rome, Italy
+#   year: 2024
+#   caption: Soft evening light reflecting off the river at dusk.
