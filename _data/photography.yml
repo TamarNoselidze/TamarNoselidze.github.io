@@ -19,10 +19,10 @@
 # -----------------------------------------------------------------------------
 
 # Example entries (uncomment and replace with your own photos):
-# - image: rome_golden_hour.jpg
-#   title: Golden Hour by the Tiber
-#   film: Kodak Portra 400
-#   camera: Olympus OM-1
-#   location: Rome, Italy
-#   year: 2024
+ - image: paris_1.JPG
+   title: Museum Cafe
+   film: ss
+   camera: Olympus OM-1
+   location: Paris, France
+   year: 2024
 #   caption: Soft evening light reflecting off the river at dusk.
