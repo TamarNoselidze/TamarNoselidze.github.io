@@ -2,8 +2,7 @@
 layout: page
 title: photography
 permalink: /photography/
-description: 35mm and medium format film photography — documenting light, grain, and moments on analogue film.
-nav: true
+description: 35mm film photography
 nav_order: 5
 images:
   spotlight: true
@@ -181,7 +180,7 @@ images:
 
 <div class="photography-section">
   <p class="photography-intro">
-    A collection of 35mm and medium format film captures — documenting light, grain, textures, and moments on analogue film.
+    My growing collection of 35mm film captures. Taking my old Pentax with me everywhere I go.
   </p>
 
   {% assign configured_images = "" | split: "" %}
