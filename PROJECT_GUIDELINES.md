@@ -71,4 +71,3 @@ This document records the conventions, style choices, and architectural decision
 - **Metadata Configuration**: Captions and analogue film metadata (film stock, camera, location, year, description) configured via `_data/photography.yml`.
 - **Auto-Discovery**: Any image file placed in `assets/img/photography/` is automatically detected and displayed even if not yet listed in `_data/photography.yml`.
 - **Viewer & Lightbox**: Interactive full-resolution zoom and keyboard navigation powered by Spotlight.js (`class="spotlight" data-group="film-gallery"`).
-
