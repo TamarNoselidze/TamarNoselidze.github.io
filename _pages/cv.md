@@ -115,7 +115,7 @@ Providing private tuition for high school students in Mathematics and English. S
 ### [Master of Science](https://www.sorbonne-universite.fr/)
 **Sorbonne University** | Paris, France | 2025 – Present  
 **Quantum Information (QI)**  
-**Relevant Coursework**: Quantum Algorithms, Quantum Dynamics, Quantum Information Theory, Mathematical Algorithms & Complexity, Data Science & Statistical Learning, Photonic Quantum Computing, Quantum Cryptography.
+**Relevant Coursework**: Quantum Algorithms, Quantum Dynamics, Quantum Information Theory, Mathematical Algorithms & Complexity, Data Science & Statistical Learning, Photonic Quantum Computing, Quantum Cryptography, Quantum Error Correction.
 
 <br>
 
@@ -130,11 +130,11 @@ Focused on Artificial Intelligence and Machine Learning with a rigorous mathemat
 
 ## Skills
 
-- **Quantum Computing**: Quantum Algorithms, Quantum Information Theory, Hybrid Quantum-Classical Algorithms, Quantum Cryptography
+- **Quantum Computing**: Quantum Algorithms, Quantum Information Theory, Quantum Cryptography, Quantum Error Correction
 - **Mathematical Optimisation**: Convex Optimisation, Linear Programming, Semidefinite Programming (SDP), MOSEK, CVXPY, PORTA, PANDA, NumPy, Pandas, SciPy
 - **Machine Learning**: PyTorch, Hugging Face Transformers, Scikit-learn, Vision Transformers (ViTs), Adversarial Robustness, Computer Vision
 - **Programming Languages**: Python (Advanced), Julia, C#, Java, Haskell, MATLAB, Bash
-- **Software & Infrastructure**: Git/GitHub, Docker, Singularity (Containerisation), Linux, High-Performance Computing (HPC Workflows)
+- **Software & Infrastructure**: Git/GitHub, Docker, Singularity (Containerisation), Linux, High-Performance Computing (HPC Workflows), LaTeX
 
 ---
 

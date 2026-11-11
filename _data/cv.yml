@@ -58,7 +58,7 @@ cv:
         start_date: 2025
         end_date: Present
         highlights:
-          - "Relevant Coursework: Quantum Algorithms, Quantum Dynamics, Quantum Information Theory, Mathematical Algorithms & Complexity, Data Science & Statistical Learning, Photonic Quantum Computing, Quantum Cryptography."
+          - "Relevant Coursework: Quantum Algorithms, Quantum Dynamics, Quantum Information Theory, Mathematical Algorithms & Complexity, Data Science & Statistical Learning, Photonic Quantum Computing, Quantum Cryptography, Quantum Error Correction."
 
       - institution: Charles University
         location: Prague, Czech Republic
@@ -74,7 +74,7 @@ cv:
     Skills:
       - name: Quantum Computing
         icon: fa-solid fa-atom
-        keywords: "Quantum Algorithms, Quantum Information Theory, Hybrid Quantum-Classical Algorithms, Quantum Cryptography"
+        keywords: "Quantum Algorithms, Quantum Information Theory, Quantum Cryptography, Quantum Error Correction"
 
       - name: Mathematical Optimisation
         icon: fa-solid fa-square-root-variable
@@ -90,7 +90,7 @@ cv:
 
       - name: Software & Infrastructure
         icon: fa-solid fa-server
-        keywords: "Git/GitHub, Docker, Singularity (Containerisation), Linux, High-Performance Computing (HPC Workflows)"
+        keywords: "Git/GitHub, Docker, Singularity (Containerisation), Linux, High-Performance Computing (HPC Workflows), LaTeX"
 
     Volunteering:
       - organization: Long Swim to Freedom
