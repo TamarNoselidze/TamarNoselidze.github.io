@@ -3,6 +3,7 @@ layout: page
 title: photography
 permalink: /photography/
 description: 35mm film photography
+nav: true
 nav_order: 5
 images:
   spotlight: true
