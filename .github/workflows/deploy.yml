@@ -93,7 +93,10 @@ jobs:
           value: ${{ github.repository }}
       - name: Install and Build 🔧
         run: |
-          sudo apt-get update && sudo apt-get install -y imagemagick
+          if ! command -v convert >/dev/null 2>&1; then
+            sudo DEBIAN_FRONTEND=noninteractive apt-get update -y || true
+            sudo DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends imagemagick || true
+          fi
           pip3 install --upgrade nbconvert
           export JEKYLL_ENV=production
           bundle exec jekyll build
